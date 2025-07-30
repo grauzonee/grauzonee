@@ -41,6 +41,7 @@ You can find my work here on GitHub — I love building small utilities and full
 
 ## 📫 Reach Me
 
+- LeetCode https://leetcode.com/u/grauzonee/
 - 📧 trake1524@gmail.com
 - 💼 [[LinkedIn]](https://www.linkedin.com/in/tatiana-goloviznina-951b43255/)
 
